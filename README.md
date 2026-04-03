@@ -2,7 +2,7 @@
 
 ## Overview
 A data analytics project to understand how students actually learn 
-outside the classroom. Collected 53 responses using Google Forms 
+outside the classroom. Collected 50+ responses using Google Forms 
 and analyzed results using Excel and Power BI with a live data connection.
 
 ## Key Findings
