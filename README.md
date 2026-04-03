@@ -38,3 +38,7 @@ and analyzed results using Excel and Power BI with a live data connection.
 - Interactive dashboard in Power BI
 - Live data pipeline from Google Sheets to Power BI
 - Data storytelling with business insights
+
+
+  ## 👤 Author
+GitHub: https://github.com/gauributte
